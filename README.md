@@ -67,24 +67,6 @@ For each task: **read → type → save → refresh → change → check**.
 
 > The code blocks in this README are examples. Put the HTML code in your `.html` file. Do not copy the triple backticks. This README is the instruction sheet, not the website.
 
-## Your two-hour plan
-
-| Session time | Task | Minutes |
-| --- | --- | ---: |
-| 00–08 | 1. Files and document structure | 8 |
-| 08–18 | 2. Headings, paragraphs, and text | 10 |
-| 18–26 | 3. Lists | 8 |
-| 26–36 | 4. Links, paths, and an image | 10 |
-| 36–46 | 5. Meaningful page structure | 10 |
-| 46–56 | 6. Tables | 10 |
-| 56–73 | 7. Forms and validation | 17 |
-| 73–83 | 8. Media and disclosure | 10 |
-| 83–90 | 9. Checking and repair | 7 |
-| **90–120** | **Independent final task** | **30** |
-| **Total** | | **120** |
-
-> Keep an eye on the time. Start the final task at minute 90. The reference and extension activities are for later; they are not extra work inside these two hours.
-
 ## Task 1 — Create your first page
 
 **Time: 8 minutes · File: `index.html`**
